@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/C++-58FAF4?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/-239120?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
