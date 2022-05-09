@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=DevExpress&logoColor=white"/>
 
-HI, NICE TO MEET YOU~
+HI, NICE TO MEET YOU
+현수
