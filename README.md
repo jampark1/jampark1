@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Access-A4373A?style=flat-square&logo=Microsoft Access&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=DevExpress&logoColor=white"/>
