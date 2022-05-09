@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 
 HI, NICE TO MEET YOU
 
-현수 바보 
-
